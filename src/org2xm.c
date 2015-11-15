@@ -6,7 +6,7 @@
 * v1.0: 2008-04-02
 *   -Original release
 * v1.1: 2015-nov-14
-*   -Added support for Org-03 files made by OrgMaker 2.1.0
+*   -Added support for Org-03 files
 * TODO:
 *   -Add option to toggle non-linear volumes and pan
 *
